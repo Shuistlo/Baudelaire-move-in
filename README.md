@@ -1,7 +1,7 @@
 # some considerations about the code for PPA without the GUI bits for now
 1. We need to use one of Aeroplane classes
 2. We need to implement the time pause
-
+/n
 We only need to consider four integer variables that need to be updated every second, x position, speed of the aeroplane, Y position how far along the runway the aeroplane is, and elevation which is only updated after speed is reached
   these two variables update every second
   after 10 seconds pass
