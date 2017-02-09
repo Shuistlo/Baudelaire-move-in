@@ -9,9 +9,9 @@ We only need to consider four integer variables that need to be updated every se
   2. must be in centre of the runway
   <br />
 Elevation will only change when the speed is reached <br />
-  if the plane gains enough elevation before 10 seconds, may take off early <br />
-    1. must be in centre of the runway <br />
-       if not, chance to correct position of plane before the plane exceeds runway <br />
+if the plane gains enough elevation before 10 seconds, may take off early <br />
+   1. must be in centre of the runway <br />
+      if not, chance to correct position of plane before the plane exceeds runway <br />
         
  # some variables i think we'll need in our aeroplane class <br />
  int x position <br />
