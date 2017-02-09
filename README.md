@@ -13,7 +13,7 @@ if the plane gains enough elevation before 10 seconds, may take off early <br />
    1. must be in centre of the runway <br />
       if not, chance to correct position of plane before the plane exceeds runway <br />
         
- # some variables i think we'll need in our aeroplane class <br />
+# some variables i think we'll need in our aeroplane class <br />
  int x position <br />
  int speed <br />
  int y position <br />
