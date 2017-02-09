@@ -5,8 +5,8 @@
 We only need to consider four integer variables that need to be updated every second, x position, speed of the aeroplane, Y position how far along the runway the aeroplane is, and elevation which is only updated after speed is reached <br />
   these two variables update every second <br />
   after 10 seconds pass <br />
-    1. must exceed a certain elevation
-    2. must be in centre of the runway
+  1. must exceed a certain elevation
+  2. must be in centre of the runway
 Elevation will only change when the speed is reached <br />
   if the plane gains enough elevation before 10 seconds, may take off early <br />
     1. must be in centre of the runway <br />
