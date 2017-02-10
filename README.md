@@ -28,6 +28,5 @@ if the plane gains enough elevation before 10 seconds, may take off early <br />
 
 #import java.lang.thread
 Public void pause(){
-  Thread.sleep(1000);
-} catch{Interrupted Exception e}
+  try{Thread.sleep(1000);} catch{Interrupted Exception e}
 }
